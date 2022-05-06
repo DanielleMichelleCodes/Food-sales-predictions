@@ -17,18 +17,18 @@ I used a data set from Big Mart Sales found here https://datahack.analyticsvidhy
 ### Here is what I found
 
 
-#### Histogram
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+#### Comparing store type to Item sales
+![Alt text](https://github.com/DanielleMichelleCodes/Food-sales-predictions/blob/main/Histo.png)
 
 > Supermakets types 1 and 3 are the front runners and this is what we want to focus on when looking to increase the sales across all types.
 
-#### Boxplot
+#### Comparing outlet size to item visibility
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/DanielleMichelleCodes/Food-sales-predictions/blob/main/Boxplot.png)
 
 ## Recommendations:
 
-It is my recommendation that the placement of the items in stores be the same throughout outlet type. Since we see that the sales do best in supermarkets that have the same item placements, #1 and 3.
+It is my recommendation that the placement of the items in stores be the same throughout outlet type and size. Since we see that the sales do best in supermarkets that have the same item placement throughout.
 
 
 
